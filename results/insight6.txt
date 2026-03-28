@@ -1,0 +1,3 @@
+Top purchased category by gender:
+Female: Clothing
+Male: Clothing

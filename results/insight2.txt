@@ -1,0 +1,3 @@
+Average purchase amount by gender:
+0: $60.25
+1: $59.54

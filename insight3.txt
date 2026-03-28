@@ -1,0 +1,1 @@
+Number of high-value customers (top 10% of purchases): 407

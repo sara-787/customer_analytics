@@ -1,0 +1,4 @@
+Top 3 shipping methods:
+Free Shipping: 675 shipments
+Standard: 654 shipments
+Store Pickup: 650 shipments
