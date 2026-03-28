@@ -28,6 +28,4 @@ ingest.py → preprocess.py → analytics.py → visualize.py → cluster.py
 ![alt text](image-2.png)
 
 Github link: https://github.com/sara-787/customer_analytics
-=======
-# customer_analytics
->>>>>>> ef0b79460cd79da3d6aa94030a6bc0ee6a78c6e0
+
